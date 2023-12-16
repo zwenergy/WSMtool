@@ -49,3 +49,8 @@ For serial or link mode, place the switch into a DOWN position.
 In order to make the connector better fitting, I designed a sleeve for the HDMI connector which "extends" it physically to a WonderSwan EXT connector. It's 3D printable, you can find the STL here in the repo.
 
 ![Connector Sleeve](./WS_Sleeve.png "Connector Sleeve")
+
+## Disclaimer
+**Use the files and/or schematics to build your own adapter board at your own risk**.
+This adapter works fine for me, but it's a simple hobby project, so there is no liability for errors in the schematics and/or board files.
+**Use at your own risk**.
