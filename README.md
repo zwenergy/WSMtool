@@ -9,6 +9,8 @@ A multitool adapter for the WonderSwan. Headphone, serial and link cable adapter
 | CN2           | 3.5 mm headphone jack (4 pin) |[LCSC](https://lcsc.com/product-detail/Variable-Resistors-Potentiometers_ALPSALPINE-RK10J12R0A0B_C351175.html)
 | U1            | BU9480f |[AliExpress](https://aliexpress.com/item/1005005906822526.html)|
 | U2            | TDA1308T |[AliExpress](https://aliexpress.com/item/33020207730.html)|
+| U3            | FSA2466UMX | [LCSC](https://www.lcsc.com/product-detail/Analog-Switches-Multiplexers_onsemi-FSA2466UMX_C457657.html)|
+| SW2           | SPDT SMD switch | [LCSC](https://www.lcsc.com/product-detail/Slide-Switches_SHOU-HAN-MINI-MSK12CO2_C2681570.html)|
 | R1            | 10 kOhm dual potentiometer (e.g. Alps Alpine RK10J12R0A0B) |[LCSC](https://lcsc.com/product-detail/Variable-Resistors-Potentiometers_ALPSALPINE-RK10J12R0A0B_C351175.html)|
 | R2, R3, R4, R5 | 3.9 kOhm resistor (0805 SMD) ||
 | R6, R7 | 10 kOhm resistor (0805 SMD) ||
