@@ -1,6 +1,19 @@
 # WSMtool
 A multitool adapter for the WonderSwan. Headphone, serial and link cable adapter in one.
 
+## Idea
+The idea for this multitool is to have a single adapter board which plugs into the EXT port of a WonderSwan and handle different tasks.
+More specifically, this board can do the following:
+* **Headphone adapter**: You can plug in regular headphones with a 3.5 mm connector and enjoy the enhanced 16b audio output.
+* **Serial adapter**: Using the RP2040 Zero-based USB dongle board, you can use it as a PC serial adapter. You connect the WS adapter to the dongle via a male-to-male 3.5 mm cable (stereo cable) and connect the dongle via USB C to a computer. Useful for, e.g., WonderGate emulation, WonderWitch or ExtFriend.
+* **Link cable**: Using the WSMtool link board, you can connect two WonderSwan and use a 3.5 mm audio cable (stereo) as a link cable.
+
+## Usage
+For regular headphone mode place the switch into a UP position.
+For serial or link mode, place the switch into a DOWN position.
+
+**NOTE: NEVER connect two WonderSwan using two main boards or two link boards. Only connect two WonderSwan using one main board and one link board.**
+
 ## Parts
 ### Main Board
 | **Reference** | **Value**| **Links**
@@ -30,3 +43,9 @@ A multitool adapter for the WonderSwan. Headphone, serial and link cable adapter
 |---------------|----------|----------|
 | U1            | RP2040 Zero (1.6 mm board width) |[AliExpress](https://aliexpress.com/item/1005004967926448.html)|
 | CN2           | 3.5 mm headphone jack (4 pin) |[LCSC](https://lcsc.com/product-detail/Variable-Resistors-Potentiometers_ALPSALPINE-RK10J12R0A0B_C351175.html)
+.
+
+## Connector Sleeve
+In order to make the connector better fitting, I designed a sleeve for the HDMI connector which "extends" it physically to a WonderSwan EXT connector. It's 3D printable, you can find the STL here in the repo.
+
+![Connector Sleeve](./WS_Sleeve.png "Connector Sleeve")
