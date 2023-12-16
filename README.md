@@ -43,7 +43,9 @@ For serial or link mode, place the switch into a DOWN position.
 |---------------|----------|----------|
 | U1            | RP2040 Zero (1.6 mm board width) |[AliExpress](https://aliexpress.com/item/1005004967926448.html)|
 | CN2           | 3.5 mm headphone jack (4 pin) |[LCSC](https://lcsc.com/product-detail/Variable-Resistors-Potentiometers_ALPSALPINE-RK10J12R0A0B_C351175.html)
-.
+
+## Case
+Right now, there are now cases for the WonderSwan adapters. Though, there is a case for the dongle under the STL folder.
 
 ## Connector Sleeve
 In order to make the connector better fitting, I designed a sleeve for the HDMI connector which "extends" it physically to a WonderSwan EXT connector. It's 3D printable, you can find the STL here in the repo.
