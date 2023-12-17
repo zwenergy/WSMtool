@@ -41,7 +41,7 @@ For serial or link mode, place the switch into a DOWN position.
 ### USB Dongle
 | **Reference** | **Value**| **Links**
 |---------------|----------|----------|
-| U1            | RP2040 Zero (1.6 mm board width) |[AliExpress](https://aliexpress.com/item/1005004967926448.html)|
+| U1            | RP2040 Zero |[AliExpress](https://aliexpress.com/item/1005004967926448.html)|
 | CN2           | 3.5 mm headphone jack (4 pin) |[LCSC](https://lcsc.com/product-detail/Variable-Resistors-Potentiometers_ALPSALPINE-RK10J12R0A0B_C351175.html)
 
 ## Case
