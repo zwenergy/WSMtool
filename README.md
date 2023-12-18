@@ -12,6 +12,11 @@ More specifically, this board can do the following:
 For regular headphone mode place the switch into a UP position.
 For serial or link mode, place the switch into a DOWN position.
 
+The RP2040 dongle works with [asie's ExtFriend](https://github.com/WonderfulToolchain/ws-extfriend).
+It follows the same GPIO pinout, hence no changes in the code are required, it should work out of the box.
+**ExtFriend Note**: The digital audio signals are not carried over to the dongle board.
+This means the digital audio capture via ExtFriend is not possible.
+
 **NOTE: NEVER connect two WonderSwan using two main boards or two link boards. Only connect two WonderSwan using one main board and one link board.**
 
 ## Parts
