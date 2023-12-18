@@ -50,7 +50,8 @@ This means the digital audio capture via ExtFriend is not possible.
 | CN2           | 3.5 mm headphone jack (4 pin) |[LCSC](https://lcsc.com/product-detail/Variable-Resistors-Potentiometers_ALPSALPINE-RK10J12R0A0B_C351175.html)
 
 ## Case
-Right now, there are now cases for the WonderSwan adapters. Though, there is a case for the dongle under the STL folder.
+Right now, there are no cases for the WonderSwan adapters. 
+Though, there is a case for the dongle under the STL folder.
 
 ## Connector Sleeve
 In order to make the connector better fitting, I designed a sleeve for the HDMI connector which "extends" it physically to a WonderSwan EXT connector. It's 3D printable, you can find the STL here in the repo.
