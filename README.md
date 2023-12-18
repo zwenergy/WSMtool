@@ -19,7 +19,7 @@ For serial or link mode, place the switch into a DOWN position.
 | **Reference** | **Value**| **Links**
 |---------------|----------|----------|
 | AUDIO1        | Vertical HDMI male connector (1.6 mm board width) |[LCSC](https://lcsc.com/product-detail/D-Sub-DVI-HDMI-Connectors_Jing-Extension-of-the-Electronic-Co-920-867A2021Y10100_C168715.html)|
-| CN2           | 3.5 mm headphone jack (4 pin) |[LCSC](https://lcsc.com/product-detail/Variable-Resistors-Potentiometers_ALPSALPINE-RK10J12R0A0B_C351175.html)
+| CN2           | 3.5 mm headphone jack (4 pin) |[LCSC](https://www.lcsc.com/product-detail/_SHOU-HAN-_C431535.html)
 | U1            | BU9480f |[AliExpress](https://aliexpress.com/item/1005005906822526.html)|
 | U2            | TDA1308T |[AliExpress](https://aliexpress.com/item/33020207730.html)|
 | U3            | FSA2466UMX | [LCSC](https://www.lcsc.com/product-detail/Analog-Switches-Multiplexers_onsemi-FSA2466UMX_C457657.html)|
