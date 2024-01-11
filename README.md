@@ -19,6 +19,8 @@ This means the digital audio capture via ExtFriend is not possible.
 
 **NOTE: NEVER connect two WonderSwan using two main boards or two link boards. Only connect two WonderSwan using one main board and one link board.**
 
+**NOTE 2: Right now, the WSMtool is not compatible with my consolizer swancolorHD. DO NOT USE IT WITH swancolorHD!**
+
 ## Parts
 ### Main Board
 | **Reference** | **Value**| **Links**
