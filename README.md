@@ -22,6 +22,8 @@ This means the digital audio capture via ExtFriend is not possible.
 **NOTE 2: Right now, the WSMtool is not compatible with my consolizer swancolorHD. DO NOT USE IT WITH swancolorHD!**
 
 ## Parts
+The main and link board PCBs need to be ordered with 1.6 mm width to fit with the HDMI connector.
+
 ### Main Board
 | **Reference** | **Value**| **Links**
 |---------------|----------|----------|
