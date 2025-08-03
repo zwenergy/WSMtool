@@ -39,6 +39,7 @@ The main and link board PCBs need to be ordered with 1.6 mm width to fit with th
 | C1, C2 | 1 uF capacitor (0805 SMD) ||
 | C3 | 22 uF capacitor (0805 SMD) ||
 | C4 | 100 nF capacitor (0805 SMD) ||
+| C5 | 10 uF capacitor (0805 SMD) ||
 | C6, C7 | 0 Ohm resistor (1206 SMD) ||
 
 ### Link Board
